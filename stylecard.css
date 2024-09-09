@@ -1,0 +1,17 @@
+*{
+    list-style-type: none;
+
+}
+.div1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 20px;
+}
+.all img{
+    width: 300px;
+    height: 400px;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 20px;
+}
